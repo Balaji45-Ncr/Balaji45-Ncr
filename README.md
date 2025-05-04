@@ -10,7 +10,7 @@
 - 💬 Ask me about **SQL, Python, and Web Development**  
 - 📫 Reach me at: [ncrlpb45@gmail.com](mailto:ncrlpb45@gmail.com)  
 - ☕ Fun fact: *I'm not lazy, I'm just on energy-saving mode*  
-- 🧠 Exploring new frameworks and technologies is my favorite kind of adventure<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300px" align="right" alt="coding" />
+- 🧠 Exploring new frameworks and technologies is my favorite kind of adventure<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="400px" align="right" alt="coding" />
 - ⚡ I believe in clean code, creative solutions, and continuous learning  
 
 ---
