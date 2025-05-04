@@ -1,6 +1,6 @@
-# Hi 👋, I'm Balaji
+                                                                   # Hi 👋, I'm Balaji
 
-🚀 A Passionate Software Engineer & Developer
+                                                        🚀 A Passionate Software Engineer & Developer
 
 - 🛠️ I’m currently working on a **Django rest framework**
 - 🌱 I’m learning advanced Django and exploring AI integrations
