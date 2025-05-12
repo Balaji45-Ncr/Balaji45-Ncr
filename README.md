@@ -2,8 +2,10 @@
 <h3 align="center">🚀 A Passionate Software Engineer & Developer</h3>
 
 ---
-<!--<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="400px" width="300px" align="right" alt="coding" />-->
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/animat-coding.gif" width="300px",align='right',height="400px"/>
+<p align="right">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/animat-coding.gif" width="300"/>
+</p>
+
 
 
 ### 👨‍💻 About Me
