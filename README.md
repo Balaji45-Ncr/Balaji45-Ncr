@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Balaji</h1>
 <h3 align="center">🚀 A Passionate Software Engineer & Developer</h3>
 
-<img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/media/2ae06c98f1b1a5dd6b2a6f6f26d3b1d8.gif" height="400px" width="300px" align="right" alt="developer animation" />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/636a1cd6e37b26c27b6cb05b2e4b47ca.gif" height="400px" width="300px" align="right" alt="coding" />
+
 
 ### 👨‍💻 About Me
 
