@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Balaji</h1>
 <h3 align="center">🚀 A Passionate Software Engineer & Developer</h3>
 
----
 <img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/media/2ae06c98f1b1a5dd6b2a6f6f26d3b1d8.gif" height="400px" width="300px" align="right" alt="developer animation" />
-
-
-
 
 ### 👨‍💻 About Me
 
@@ -14,7 +10,7 @@
 - 💬 Ask me about **SQL, Python, and Web Development**  
 - 📫 Reach me at: [ncrlpb45@gmail.com](mailto:ncrlpb45@gmail.com)  
 - ☕ Fun fact: *I'm not lazy, I'm just on energy-saving mode*  
-- 🧠 Exploring new frameworks and technologies is my favorite kind of adventure
+- 🧠 Exploring new frameworks and technologies is my favorite kind of adventure  
 - ⚡ I believe in clean code, creative solutions, and continuous learning  
 
 ---
@@ -31,5 +27,3 @@
   <img src="https://img.shields.io/badge/BOOTSTRAP-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
-
----
