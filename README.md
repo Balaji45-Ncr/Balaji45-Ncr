@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Balaji</h1>
 <h3 align="center">🚀 A Passionate Software Engineer & Developer</h3>
 
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" height="400px" width="300px" align="right" alt="coding freak" />
+<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python2.gif" height="400px" width="300px" align="right" alt="python developer" />
+
 
 
 
