@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Software Engineer & Developer</h3>
 
 ---
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="400px" align="right" alt="coding" />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="400px" width="200px" align="right" alt="coding" />
 
 ### 👨‍💻 About Me
 
