@@ -13,7 +13,10 @@
 - 📫 Reach me at: [ncrlpb45@gmail.com](mailto:ncrlpb45@gmail.com)  
 - ☕ Fun fact: *I'm not lazy, I'm just on energy-saving mode*  
 - 🧠 Exploring new frameworks and technologies is my favorite kind of adventure  
-- ⚡ I believe in clean code, creative solutions, and continuous learning  
+- ⚡ I believe in clean code, creative solutions, and continuous learning
+  
+## 👀 Profile Views
+![Profile views](https://komarev.com/ghpvc/?username=Balaji45-Ncr&color=green)
 
 ---
 
